@@ -17,8 +17,8 @@ Each message follows a JSON format with the following structure:
 
 ```json
 {
-  "idref": "ABC",  // A three-character alphabetical product ID in uppercase
-  "quantity": 10  // A quantity value between 1 and 99
+  "idref": "ABC",
+  "quantity": 10
 }
 ```
 
