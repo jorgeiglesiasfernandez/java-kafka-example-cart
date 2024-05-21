@@ -1,0 +1,8 @@
+{
+    "type": "record",
+    "name": "Cart",
+    "fields": [
+        {"name": "idref", "type": "string"},
+        {"name": "quantity", "type": "int"}
+    ]
+}
